@@ -9,19 +9,19 @@
       "message": "This extension works best on homepages or the main page of most websites.\u003Cp>Try the extension on a website you already love&mdash;test drive it and see the page suggestions on something you know."
    },
    "sp_default_title": {
-      "message": "See Google Similar Pages"
+      "message": "See Website Related Content"
    },
    "sp_description": {
-      "message": "Discover webpages similar to the page you're currently browsing."
+      "message": "Discover webpages related to the page you're currently browsing."
    },
    "sp_domain_change_message": {
       "message": " To change your local domain to www.google.com, \u003Ca id='over' href='#'>click here\u003C/a>."
    },
    "sp_domain_clicked_message": {
-      "message": "www.google.com has been saved as your local domain for retrieving similar pages."
+      "message": "www.google.com has been saved as your local domain for retrieving website related content."
    },
    "sp_domain_message": {
-      "message": "The extension will contact $1 to retrieve the list of similar pages. ",
+      "message": "The extension will contact $1 to retrieve the list of relevant pages.",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -52,7 +52,7 @@
    },
    "sp_options_intro": {
 
-      "message": "Search by Webpage allows you to quickly preview and explore other pages that are similar to the one you are browsing --  on the fly!"
+      "message": "To developing such a computerization system is to improve the efficiency of the web searching and reduce the time spent while searching on different topics of time and to provide the precise information.\n"
    },
    "sp_options_legal": {
       "message": "It uses Google Seach Feautures in a Effective Way.",
@@ -88,7 +88,7 @@
       "message": "Preview\u003Cbr>not available"
    },
    "sp_product_name": {
-      "message": "Google Similar Pages beta (by Google)"
+      "message": "Website Related Content"
    },
    "sp_redirect_host": {
       "message": "http://www.google.com"
@@ -103,6 +103,6 @@
       "message": "The extension is currently not available for your country/region. Please check back soon."
    },
    "sp_zero_results": {
-      "message": "No similar pages found."
+      "message": "No related content found."
    }
 }
