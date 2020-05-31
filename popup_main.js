@@ -172,7 +172,7 @@ var A = /(chrome|file|http?:\/\/chrome\.google\.com\/extenions)/,
             document.addEventListener("keydown", C, !1);
             if (b.a.length) {
                 a = document.getElementById("sp_results");
-                for (var b = b.a, c = Math.min(b.length, 10), e = 0; e < c; e++) {
+                for (var b = b.a, c = Math.min(b.length, 20), e = 0; e < c; e++) {
                     var f = w(b[e], e);
                     a.appendChild(f)
                 }

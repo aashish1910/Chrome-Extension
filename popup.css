@@ -73,7 +73,7 @@ body {
 	box-shadow:         0px 0px 1px 0px rgba(0,0,0,0.10), 0px 2px 1px 0px rgba(0,0,0,0.10);
 }
 .SP_Message {
-  color: #4a4a4a;
+  color: red;
   text-align: center;
   font-weight: 400;
   font-family: 'Roboto';
